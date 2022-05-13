@@ -5,8 +5,8 @@ OSXPMem - Mac OS X Physical Memory acquisition tool
 Version: RC1
 
 Author: Johannes Stuettgen (johannes.stuettgen@gmail.com)
-Summary
 
+Summary:
 The OSX Memory Imager is an open source tool to acquire physical memory on an Intel based Mac. It consists of 2 components:
 
     The usermode acquisition tool 'osxpmem', which parses the accessible sections of physical memory and writes them to disk in a specific format.
